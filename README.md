@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Adityaroy000
+- 👋 Hi, I’m Aditya roy.
 - 👀 I’m interested in programming language Like C,C++,Pyhton.
 - 🌱 I’m currently learning some of the programing language.
 - 💞️ I’m looking to collaborate on projects..
