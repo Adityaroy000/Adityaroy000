@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditya roy.
 - 👀 I’m interested in programming language Like C,C++,Python.
-- 🌱 I’m currently learning Python language.
+- 🌱 I’m currently learning DSA in CPP.
 - 💞️ I’m looking to collaborate on projects..
 - 📫 How to reach me:- via mail: adityaroy2003005@gmail.com
 - 😄 Pronouns: He/Him
