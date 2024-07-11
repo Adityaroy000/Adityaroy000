@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python language.
 - 💞️ I’m looking to collaborate on projects..
 - 📫 How to reach me:- via mail: adityaroy2003005@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 <!---
