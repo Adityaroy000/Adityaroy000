@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming language Like C,C++,Python.
 - 🌱 I’m currently learning DSA in CPP.
 - 💞️ I’m looking to collaborate on projects..
-- 📫 How to reach me:- via mail: adityaroy2003005@gmail.com
+- 📫 How to reach me:- via mail: adityaroyofficial20@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
