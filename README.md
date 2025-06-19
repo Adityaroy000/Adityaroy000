@@ -17,10 +17,19 @@
 - Beginner-friendly ML projects
 - Open Source contributions
 
-### 📫 Connect with me:
-📧 [adityaroyofficial20@gmail.com](mailto:adityaroyofficial20@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/aditya-roy-5a39b429a)  
-💻 [GitHub](https://github.com/Adityaroy000)
+### 📬 Connect with me:
+
+<p align="left">
+  <a href="mailto:adityaroyofficial20@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aditya-roy-5a39b429a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/Adityaroy000" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</p>
 
 ---
 
