@@ -8,7 +8,6 @@
 ---
 
 ### 🌱 Currently Learning:
-- JavaScript and the DOM 🌐
 - Web Development (HTML, CSS, JS, React)
 - Machine Learning with Python 🤖
 - Deepening my Data Structures & Algorithms 📊
