@@ -7,15 +7,61 @@
 
 ---
 
-### 🌱 Currently Learning:
-- Web Development (HTML, CSS, JS, React)
-- Machine Learning with Python 🤖
-- Deepening my Data Structures & Algorithms 📊
+## 🧠 About Me
 
-### 🤝 Looking to Collaborate On:
-- DSA-based web apps
-- Beginner-friendly ML projects
-- Open Source contributions
+* 🏗️ Currently building a **multi-role championship management platform** with event-scoped architecture and workflow-driven design
+* 🔐 Strong focus on **Backend Engineering, System Design, and RBAC-based architectures**
+* 🤖 Exploring **Agentic AI systems (RAG, LLM workflows, LangGraph)**
+* 📈 Solved **700+ DSA problems** across platforms
+
+---
+
+## 🚀 What I’m Working On
+
+### 🥋 Wushu Sports Management Platform
+
+* Designed a **233-endpoint REST API** for a multi-role system (Admin, Coordinator, Team Manager)
+* Built **event-scoped workflows** handling registrations, approvals, grievances, fixtures, and payments
+* Implemented **database-driven RBAC with hierarchical access control**
+* Developed **config-driven validation system (Circulars)** for dynamic rules, categories, and fees
+
+### 🤖 Transformer Intelligence Desk (Agentic QA)
+
+* Built an **agentic RAG system** using LangGraph + Llama-3
+* Implemented **multi-query retrieval + vector search (ChromaDB)**
+* Designed **self-correcting pipeline (LLM-as-a-Judge)** to reduce hallucinations
+* Integrated **tool-calling with Python sandbox for exact computations**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+C | C++ | Java | Python | JavaScript
+
+### ⚙️ Backend & Systems
+
+Node.js | Express.js | REST APIs | JWT Auth | RBAC | LangGraph
+
+### 🎨 Frontend
+
+React | Zustand | Redux Toolkit | Tailwind CSS
+
+### 🗄️ Databases
+
+MongoDB | Mongoose | ChromaDB (Vector DB)
+
+### 🔧 Tools
+
+Git | GitHub | Render | Cloudinary | Postman
+
+---
+
+## 🎯 Mindset
+
+> Build systems → Understand deeply → Improve continuously ⚡
+
 
 ### 📬 Connect with me:
 
